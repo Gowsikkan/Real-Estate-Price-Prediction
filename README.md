@@ -37,12 +37,12 @@ The Purpose of the project is to develope a machine learning model to predict th
 # Installation
  Use can Install the packages for this application using
 ```sh
-    pip install -r requirements
+pip install -r requirements
 ```
 
 # Separate environment
 Create a viritual environment in order to avoid version errors between packages
-```
+```sh
 pip install virtualenv
 ```
 
