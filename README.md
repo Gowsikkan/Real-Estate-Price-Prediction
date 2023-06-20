@@ -1,5 +1,5 @@
 # Project Name
-Banglore-House-Price-Prediction 
+Real-Estate-Price-Prediction 
 
 # Project Objective
 The Purpose of the project is to develope a machine learning model to predict the prices of house in Bangalore.
